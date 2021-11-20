@@ -1,0 +1,14 @@
+{
+  "firstName": "Priyal",
+  "lastName": "Patel",
+  "handle": "pripat21",
+  "profilePicture": "../../../images/cat.jpg",
+  "bannerPicture": "../../../images/banner.jpg",
+  "bio": "Harry Potter nerd, Computer Science student, Bookworm. Creative and innovative procrastinator by day, coffee fueled gamer by night.",
+  "website": "youtube.com/priyalpat",
+  "location": "Boston, MA",
+  "dateOfBirth": "1994-07-21",
+  "dateJoined": "11/2021",
+  "followingCount": 123,
+  "followersCount": 234
+}
