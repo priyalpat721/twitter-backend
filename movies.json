@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6195d4384635b35ee27abbb1"
+  },
+  "title": "Terminator",
+  "rating": 4.8
+},{
+  "_id": {
+    "$oid": "6195d4444635b35ee27abbb2"
+  },
+  "title": "Avatar",
+  "rating": 4.9
+},{
+  "_id": {
+    "$oid": "6196af602c5010379e30c5f6"
+  },
+  "title": "hello from mars",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619890a165ffc47b0ae770a8"
+  },
+  "title": "web dev 101",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619c812464678cc39fde4fa1"
+  },
+  "title": "test run",
+  "rating": "2"
+}]

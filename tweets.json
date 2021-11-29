@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6195e77366888af9ff79dd3a"
+  },
+  "topic": "Space",
+  "userName": "SpaceX",
+  "verified": false,
+  "handle": "spacex",
+  "title": "",
+  "tweet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "attachments": {
+    "image": "../../../images/starship.jpg"
+  },
+  "time": "last month",
+  "logo-image": "../../../images/nodejs.png",
+  "avatar-image": "../../../images/nodejs.png",
+  "tweets": "120K",
+  "stats": {
+    "comments": 123,
+    "retweets": 234,
+    "likes": 346
+  },
+  "liked": true
+},{
+  "_id": {
+    "$oid": "6195e78266888af9ff79dd3b"
+  },
+  "topic": "Space",
+  "userName": "Scott Manley",
+  "verified": true,
+  "handle": "DJSnM",
+  "published-date": "2020-12-10",
+  "time": "1 day",
+  "title": "JavaScript is programming language that can run on browsers as well as desktops",
+  "tweet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "logo-image": "../../../images/javascript.png",
+  "avatar-image": "../../../images/javascript.png",
+  "tweets": "123K",
+  "stats": {
+    "comments": 123,
+    "retweets": 234,
+    "likes": 345
+  },
+  "liked": "false"
+},{
+  "_id": {
+    "$oid": "6195e79266888af9ff79dd3c"
+  },
+  "topic": "Web Development",
+  "userName": "jQuery",
+  "verified": false,
+  "handle": "jQuery",
+  "title": "jQuery",
+  "tweet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "time": "last week",
+  "logo-image": "../../../images/jquery.png",
+  "avatar-image": "../../../images/jquery.png",
+  "tweets": "122K",
+  "stats": {
+    "comments": 123,
+    "retweets": 234,
+    "likes": 345
+  },
+  "liked": false
+},{
+  "_id": {
+    "$oid": "6195e7a166888af9ff79dd3d"
+  },
+  "topic": "Web Development",
+  "userName": "NodeJS",
+  "verified": true,
+  "handle": "NodeJS",
+  "title": "",
+  "tweet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  "time": "last month",
+  "logo-image": "../../../images/nodejs.png",
+  "avatar-image": "../../../images/nodejs.png",
+  "tweets": "120K",
+  "stats": {
+    "comments": 123,
+    "retweets": 234,
+    "likes": 345
+  },
+  "liked": false
+},{
+  "_id": {
+    "$oid": "619eb0beb520d9517d67300f"
+  },
+  "topic": "Web Development",
+  "userName": "ReactJS",
+  "verified": false,
+  "handle": "ReactJS",
+  "title": "New tweet just posted",
+  "tweet": "hello from mars!!!",
+  "time": "2h",
+  "logo-image": "../../../images/react.png",
+  "avatar-image": "../../../images/react.png",
+  "stats": {
+    "comments": 123,
+    "retweets": 234,
+    "likes": 346
+  },
+  "__v": 0,
+  "liked": true
+}]
